@@ -6,13 +6,13 @@
 
 ## Main Page
 
--- Kaydedilen yerlerin database'den çekilerek sıralandığı ve yeni kayıt sayfasına yönledirmenin yapıldığı temel giriş sayfası
+- Kaydedilen yerlerin database'den çekilerek sıralandığı ve yeni kayıt sayfasına yönledirmenin yapıldığı temel giriş sayfası
 
 <img src="https://github.com/Sarper-Bal/TravelMap/assets/49680723/203e8e77-d590-484d-a1f7-ef03742608b4" width="350">
 
 ## New Registration Page
 
--- Yerin haritadan pinlenip, isim ve yorum bölümlerinin doldurularak kayıt işleminin yapıldığı kısım.
+- Yerin haritadan pinlenip, isim ve yorum bölümlerinin doldurularak kayıt işleminin yapıldığı kısım.
 
 
 <img src="https://github.com/Sarper-Bal/TravelMap/assets/49680723/a630aed5-bc56-4b8d-ade8-bc3abd71dd2d" width="350">.
@@ -21,7 +21,7 @@
 
 ## Info Page
 
--- Kullanıcılar kaydettikleri yerlere bakabilir veya isterlerse müdahelde bulnup tekrar kaydedebilirler, izleme sayfası üzerinden.
+- Kullanıcılar kaydettikleri yerlere bakabilir veya isterlerse müdahelde bulnup tekrar kaydedebilirler, izleme sayfası üzerinden.
 
 <img src="https://github.com/Sarper-Bal/TravelMap/assets/49680723/8b5a8ebf-0d04-43e5-a460-5309962f674d" width="350">.
 
